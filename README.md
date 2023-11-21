@@ -5,7 +5,7 @@
 * Lendas Vivas
   * Folklore
 
-Criamos um jogo digital seguindo o ESG da Onu para 2030. A ideia foi fazer um jogo que concientizasse sobre a importância da preservação da flora e fauna terrestre. Usamos elementos da mitologia brasileira. Incentivando, também, a retomada da cultura dos povos nativos brasileiros.
+Criamos um jogo digital seguindo o ESG da Onu para 2030. A ideia foi fazer um jogo que conscientizasse sobre a importância da preservação da flora e fauna terrestre. Usamos elementos da mitologia brasileira. Incentivando, também, a retomada da cultura dos povos nativos brasileiros.
 
 ## 🚀 Integrantes
 
