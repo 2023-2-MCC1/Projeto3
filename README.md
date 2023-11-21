@@ -19,13 +19,8 @@ Criamos um jogo digital seguindo o ESG da ONU para 2030. A ideia foi fazer um jo
 
 ## Estrutura 🗂️
 
-📁 Lendas Vivas
- |
- 📁 
-  |
-  📁
-   |
-   📁
+* 📁 Lendas Vivas
+  * 📁
 
 ## Instalação
 
