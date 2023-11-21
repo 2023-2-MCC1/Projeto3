@@ -13,7 +13,7 @@ Criamos um jogo digital seguindo o ESG da ONU para 2030. A ideia foi fazer um jo
 * Rodrigo Correa da Gama - RA: 23025472 - [Perfil](https://github.com/FRgama)
 * Samuel Ferreira dos Santos - RA: 23025464 - [Perfil](https://github.com/sael15el)
 * Cláudio Endo Silva- RA: 23025546 - [Perfil](https://github.com/claudioendoosilva)
-* Sabrinna crista Gomes Vicente - RA: 23025550 - []()
+* Sabrinna Cristina Gomes Vicente - RA: 23025550 - []()
 
 ## Descrição
 
