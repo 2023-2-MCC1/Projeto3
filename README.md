@@ -1,6 +1,3 @@
-# Projeto3
-Lendas Vivas
-
 # Lendas Vivas
 
 Criamos um jogo digital seguindo o ESG da Onu para 2030. A ideia foi fazer um jogo que concientizasse sobre a importância da preservação da flora e fauna terrestre. Usamos elementos da mitologia brasileira. Incentivando, também, a retomada da cultura dos povos nativos brasileiros.
@@ -78,10 +75,13 @@ Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoS
 Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
 
 ## ✒️ Autores
+Aluno
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+* Rodrigo Correa da Gama - *RA: 23025472*
+* Samuel Ferreira dos Santos - *RA: 2325464*
+*
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
+* **Rodrigo Gama** - *Code developer* - [umdesenvolvedor]([https://github.com/linkParaPerfil](https://github.com/FRgama?tab=overview&from=2023-11-01&to=2023-11-21))
 * **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
