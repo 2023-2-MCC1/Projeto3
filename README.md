@@ -3,7 +3,7 @@
 ![687474~1](https://github.com/2023-2-MCC1/Projeto3/assets/91343687/4d94a246-7dd9-4788-99ff-66753a097c3c)
 
 * Lendas Vivas
-* * Folklore
+  * Folklore
 
 Criamos um jogo digital seguindo o ESG da Onu para 2030. A ideia foi fazer um jogo que concientizasse sobre a importância da preservação da flora e fauna terrestre. Usamos elementos da mitologia brasileira. Incentivando, também, a retomada da cultura dos povos nativos brasileiros.
 
