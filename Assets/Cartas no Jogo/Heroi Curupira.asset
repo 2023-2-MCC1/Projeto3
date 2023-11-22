@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaf62723a0d72fb4ebc1e75150a62372, type: 3}
+  m_Name: Heroi Curupira
+  m_EditorClassIdentifier: 
+  NomeDaCarta: Curupira
+  DescricaoDaAcao: "O protetor da floresta. Far\xE1 de tudo para proteger sua Fauna
+    e Flora"
+  HistoriaDaCarta: "\"Enquanto eu estiver aqui, voc\xEAs nunca vencer\xE3o!\""
+  VidaAtual: 6
+  DanoDeAtaque: 8
+  CustoDeMana: 7
+  SpritePersonagem: {fileID: 21300000, guid: 6fb5d7999d841114480615012f739a6c, type: 3}
+  SpriteFundo: {fileID: 21300000, guid: 1aec4ea55e483344eb21c36b5dcabfd8, type: 3}

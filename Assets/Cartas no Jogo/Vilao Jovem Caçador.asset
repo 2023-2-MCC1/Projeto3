@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaf62723a0d72fb4ebc1e75150a62372, type: 3}
+  m_Name: "Vilao Jovem Ca\xE7ador"
+  m_EditorClassIdentifier: 
+  NomeDaCarta: "Jovem Ca\xE7ador"
+  DescricaoDaAcao: "Um ca\xE7ador novato, que descobriu que ca\xE7ar animais em risco
+    de extin\xE7\xE3o poderia ser uma boa fonte de renda\r\n"
+  HistoriaDaCarta: "\"N\xE3o conta pra ningu\xE9m, mas eu tenho medo de aranha\""
+  VidaAtual: 2
+  DanoDeAtaque: 4
+  CustoDeMana: 3
+  SpritePersonagem: {fileID: 21300000, guid: eced3cc817120be4c98cdd967b8776ab, type: 3}
+  SpriteFundo: {fileID: 21300000, guid: 1aec4ea55e483344eb21c36b5dcabfd8, type: 3}
