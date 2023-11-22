@@ -22,8 +22,9 @@ public class ControleUI : MonoBehaviour
     public GameObject BotaoTerminarTurno;
     public string MenuPrincipalScene, BatalhaSelectScene;
 
- public GameObject BatalhaEncerradaCena;
- public TMP_Text BatalhaResultadoTexto;
+    public GameObject BatalhaDerrota;
+    public GameObject BatalhaVitoria; 
+    public TMP_Text BatalhaResultadoTexto;
    
 
 

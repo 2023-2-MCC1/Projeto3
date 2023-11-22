@@ -204,18 +204,21 @@ public class ControleDeBatalha : MonoBehaviour
 
         if(VidaInimigo<=0)
         {
-            ControleUI.Referencia.BatalhaResultadoTexto.text = "Você venceu!"; 
-             foreach (CartasPontos point in CartaPontosControle.Referencia.CartaPontosInimigos)
+            ControleUI.Referencia.BatalhaResultadoTexto.text = "Você venceu!";
+            StartCoroutine(MostrarVitoria());
+            foreach (CartasPontos point in CartaPontosControle.Referencia.CartaPontosInimigos)
              {
                 if (point.CartaAtiva != null)
                 {
                     point.CartaAtiva.MoverParaOPonto(Cemiterio.position, point.CartaAtiva.transform.rotation);
                 }
                 }
-                }else{
+                }else
+                {
 
-            ControleUI.Referencia.BatalhaResultadoTexto.text = "Você perdeu!"; 
-                
+                ControleUI.Referencia.BatalhaResultadoTexto.text = "Você perdeu!";
+                StartCoroutine(MostrarDerrota());
+
             foreach (CartasPontos point in CartaPontosControle.Referencia.CartaPontosJogador)
              {
                 if (point.CartaAtiva != null)
@@ -224,13 +227,19 @@ public class ControleDeBatalha : MonoBehaviour
                 }
         }
                 }
-        StartCoroutine(MostrarResultado());
+        
     }
-    IEnumerator MostrarResultado()
+    IEnumerator MostrarDerrota()
     {
    yield return new WaitForSeconds (ResultadoDelay);
-   ControleUI.Referencia.BatalhaEncerradaCena.SetActive(true);
+   ControleUI.Referencia.BatalhaDerrota.SetActive(true);
     }
-    
+
+    IEnumerator MostrarVitoria()
+    {
+        yield return new WaitForSeconds(ResultadoDelay);
+        ControleUI.Referencia.BatalhaVitoria.SetActive(true);
+    }
+
 }
 
