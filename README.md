@@ -15,14 +15,26 @@ Criamos um jogo digital seguindo o ESG da ONU para 2030. A ideia foi fazer um jo
 * Cláudio Endo Silva- RA: 23025546 - [Perfil](https://github.com/claudioendoosilva)
 * Sabrinna Cristina Gomes Vicente - RA: 23025550 - []()
 
+## Professores Orientadores: Victor Rosetti, Fabiano Onça
+
 ## Descrição
 
-## Estrutura 🗂️
+Lendas Vivas é um jogo de cartas em 3D com a temática baseada no ODS de numero 15, no qual aborda o tema "Vida na terra". a história se trata de, em meio a grande destruição causada por caçadores, madereiros e mineradores, os personagens do folclore brasileiro se revoltam e batalham contra esses que causam mal a natureza. No jogo, Você controla cartas como a do Curupira, Saci, Mula sem cabeça e outras figuras do folclore brasileiro e batalha contra figuras como Caçadores, poluidores de água, entre outros.
 
-* 📁 Lendas Vivas
-  * 📁
+## Pastas
+
+As pastas estão divididas entre:
+
+
 
 ## Instalação
+
+A instalação poderá ser feita de duas formas:
+
+1 -  Clonando o repositório do Github e abrindo o arquivo na Unity na versão 2022.3.13f1.
+2 - Entre na pasta Executável e execute o arquivo "LendasVivasJogo.exe"
+
+
 
 ## Licença e Creative Commons
 
