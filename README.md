@@ -47,8 +47,7 @@ Lendas Vivas é um jogo de cartas em 3D com a temática baseada no ODS de numero
 * Documentos: Tanto a proposta de projeto quanto os slides da apresentação do jogo estarão presentes lá.
 * Source: Pasta cujo contém o Código fonte do jogo.
 * Executável: Contém o executável do jogo
-
-* Todas essas pastas poderão ser acessadas no Master.
+* Todas essas pastas poderão ser acessadas no Main.
 
 
 
