@@ -10,7 +10,8 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Samuel Ferreira </a>, <a href="https://www.linkedin.com/in/victorbarq/">Claudio Endo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Sabrinna Cristina Gomes Vicente</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rodrigo Correa da Gama</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosetti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fabiano Onça</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/"> Victor Rosetti</a>, <a href="https://www.linkedin.com/in/victorbarq/"> Adriano F. Valente</a>, <a href="https://www.linkedin.com/in/victorbarq/"> Alexsandro Roberto</a>, <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/"> Fabiano Onça</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz</a>
+
 
 ## Descrição
 
@@ -26,16 +27,12 @@ Lendas Vivas é um jogo de cartas em 3D com a temática baseada no ODS de numero
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
+  &emsp;|GRUPO 06 - CCOMP - Projetos de Extensão.pdf<br>
+  &emsp;|Lendas Vivas Apresentação.pdf<br>
+|-->Lendas Vivas Executável<br>
+  &emsp;|-->LendasVivasJogo.exe<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+  &emsp;|LendasVivasJogo - Copia<br>
 |readme.md<br>
 
 
@@ -53,58 +50,39 @@ Lendas Vivas é um jogo de cartas em 3D com a temática baseada no ODS de numero
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Encontre o LendasVivasJogo.exe na pasta Lendas Vivas Executável e execute-o como qualquer outro programa.
 
 ```sh
 Coloque código do prompt de comnando se for necessário
 ```
 
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
 Para abrir este projeto você necessita das seguintes ferramentas:
 
--<a href="https://godotengine.org/download">GODOT</a>
+-<a href="https://unity.com/pt">UNITY</a>
 
 ```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
+1. Instalar editor versão 2023.3.13f1
+2. Baixar os arquivos do repositorio
+3. Abrir com Unity
 ```
 
 ## 🗃 Histórico de lançamentos
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
+* 0.1.7 - 23/11/2023
+    * Resolução de pequenos problemas
+* 0.1.2 - 20/11/2023
+    * Finalização do script de menus, cenário de dialogo e inserção das artes das cartas
+* 0.1.1 - 18/11/2023
+    * Finalização do script de gameplay
+* 0.1.0 - 15/11/2023
     * Trabalho em andamento
 
 ## 📋 Licença/License
@@ -119,8 +97,8 @@ Aqui estão as referências usadas no projeto.
 1. <https://github.com/iuricode/readme-template>
 2. <https://github.com/gabrieldejesus/readme-model>
 3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+4. <https://www.youtube.com/watch?v=aPXvoWVabPY&ab_channel=Brackeys)>
+
 
 
  
