@@ -1,10 +1,17 @@
 # FECAP - Fundação de Comércio Álvares Penteado
 
-![687474~1](https://github.com/2023-2-MCC1/Projeto3/assets/91343687/4d94a246-7dd9-4788-99ff-66753a097c3c)
+<p align="center">
+<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+</p>
 
-# Lendas Vivas 🎮
+# Projeto 3
 
-![image](https://cdn.discordapp.com/attachments/1163969788813516811/1176714375604744264/IMG_6388.png?ex=656fdfa9&is=655d6aa9&hm=668c134884153f1fdf1a9c90c6ab0d81203ed9d57a71d6f2a186676962462b01&)
+## FolkloreTech
+
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+
 
 Criamos um jogo digital seguindo o ESG da ONU para 2030. A ideia foi fazer um jogo que conscientizasse sobre a importância da preservação da flora e fauna terrestre. Usamos elementos da mitologia brasileira. Incentivando, também, a retomada da cultura dos povos nativos brasileiros.
 
