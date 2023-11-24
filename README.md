@@ -15,7 +15,7 @@
 ## Descrição
 
 <p align="center">
-<img src="[https://pix4free.org/assets/library/2021-01-20/originals/game.jpg](https://discord.com/channels/@me/1163969788813516811/1176714375990612112)" alt="NOME DO JOGO" border="0">
+<img src=["[https://pix4free.org/assets/library/2021-01-20/originals/game.jpg](https://discord.com/channels/@me/1163969788813516811/1176714375990612112)"](https://discord.com/channels/@me/1163969788813516811/1176714375990612112) alt="NOME DO JOGO" border="0">
   
 
 Criamos um jogo digital seguindo o ESG da ONU para 2030. A ideia foi fazer um jogo que conscientizasse sobre a importância da preservação da flora e fauna terrestre. Usamos elementos da mitologia brasileira. Incentivando, também, a retomada da cultura dos povos nativos brasileiros.
