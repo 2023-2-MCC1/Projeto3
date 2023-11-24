@@ -8,7 +8,7 @@
 
 ## FolkloreTech
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Samuel Ferreira </a>, <a href="https://www.linkedin.com/in/victorbarq/">Claudio Endo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Sabrinna Cristina Gomes Vicente</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rodrigo Correa da Gama</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Samuel Ferreira dos Santos </a>, <a href="https://www.linkedin.com/in/victorbarq/">Cláudio Endo Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Sabrinna Cristina Gomes Vicente</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rodrigo Correa da Gama</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/"> Victor Rosetti</a>, <a href="https://www.linkedin.com/in/victorbarq/"> Adriano F. Valente</a>, <a href="https://www.linkedin.com/in/victorbarq/"> Alexsandro Roberto</a>, <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/"> Fabiano Onça</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz</a>
 
@@ -82,7 +82,7 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 ## 📋 Licença/License
 
-Lendas Vivas © 2023 by Rodrigo Gama, Samuel Ferreira dos Santos, Cláudio Endo Silva, Sabrinna Cristina Gomes Vicente is licensed under CC BY-SA 4.0 ![image](https://github.com/2023-2-MCC1/Projeto3/assets/121040163/e30bc38c-b5df-46d3-9465-10106e1fba2d)
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2023-2-MCC1/Projeto3">Lendas Vivas</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/FRgama">Rodrigo Gama, Sabrinna Vicente, Claudio Endo, Samuel Ferreira</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
 
 
 ## 🎓 Referências
