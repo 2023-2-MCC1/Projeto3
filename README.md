@@ -20,23 +20,12 @@
 
 Criamos um jogo digital seguindo o ESG da ONU para 2030. A ideia foi fazer um jogo que conscientizasse sobre a importância da preservação da flora e fauna terrestre. Usamos elementos da mitologia brasileira. Incentivando, também, a retomada da cultura dos povos nativos brasileiros.
 
-## Folklore
-
-## 🚀 Integrantes
-
-* Rodrigo Correa da Gama - RA: 23025472 - [Perfil](https://github.com/FRgama)
-* Samuel Ferreira dos Santos - RA: 23025464 - [Perfil](https://github.com/sael15el)
-* Cláudio Endo Silva- RA: 23025546 - [Perfil](https://github.com/claudioendoosilva)
-* Sabrinna Cristina Gomes Vicente - RA: 23025550 - []()
-
-## Professores Orientadores: Victor Rosetti, Fabiano Onça
-
 ## Descrição
 
-<p align="center">
+[<p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
+</p>](https://discord.com/channels/@me/1163969788813516811/1176714375990612112)
 
 Lendas Vivas é um jogo de cartas em 3D com a temática baseada no ODS de numero 15, no qual aborda o tema "Vida na terra". a história se trata de, em meio a grande destruição causada por caçadores, madereiros e mineradores, os personagens do folclore brasileiro se revoltam e batalham contra esses que causam mal a natureza. No jogo, Você controla cartas como a do Curupira, Saci, Mula sem cabeça e outras figuras do folclore brasileiro e batalha contra figuras como Caçadores, poluidores de água, entre outros.
 
