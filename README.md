@@ -22,10 +22,7 @@ Criamos um jogo digital seguindo o ESG da ONU para 2030. A ideia foi fazer um jo
 
 ## Descrição
 
-[<p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>](https://discord.com/channels/@me/1163969788813516811/1176714375990612112)
+[https://discord.com/channels/@me/1163969788813516811/1176714375990612112](https://media.discordapp.net/attachments/1163969788813516811/1176714375604744264/IMG_6388.png?ex=656fdfa9&is=655d6aa9&hm=668c134884153f1fdf1a9c90c6ab0d81203ed9d57a71d6f2a186676962462b01&=&format=webp&width=425&height=425)
 
 Lendas Vivas é um jogo de cartas em 3D com a temática baseada no ODS de numero 15, no qual aborda o tema "Vida na terra". a história se trata de, em meio a grande destruição causada por caçadores, madereiros e mineradores, os personagens do folclore brasileiro se revoltam e batalham contra esses que causam mal a natureza. No jogo, Você controla cartas como a do Curupira, Saci, Mula sem cabeça e outras figuras do folclore brasileiro e batalha contra figuras como Caçadores, poluidores de água, entre outros.
 
@@ -118,6 +115,8 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 ## 📋 Licença/License
 
+Lendas Vivas © 2023 by Rodrigo Gama, Samuel Ferreira dos Santos, Cláudio Endo Silva, Sabrinna Cristina Gomes Vicente is licensed under CC BY-SA 4.0 ![image](https://github.com/2023-2-MCC1/Projeto3/assets/121040163/e30bc38c-b5df-46d3-9465-10106e1fba2d)
+
 
 ## 🎓 Referências
 
@@ -128,18 +127,6 @@ Aqui estão as referências usadas no projeto.
 3. <https://creativecommons.org/share-your-work/>
 4. <https://freesound.org/>
 5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
-
-
-
-## Licença e Creative Commons
-
-Lendas Vivas © 2023 by Rodrigo Gama, Samuel Ferreira dos Santos, Cláudio Endo Silva, Sabrinna Cristina Gomes Vicente is licensed under CC BY-SA 4.0 ![image](https://github.com/2023-2-MCC1/Projeto3/assets/121040163/e30bc38c-b5df-46d3-9465-10106e1fba2d)
-
-## Referências
-
-https://github.com/iuricode/readme-template
-https://github.com/gabrieldejesus/readme-model
-https://creativecommons.org/share-your-work/
 
 
  
