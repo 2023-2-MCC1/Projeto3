@@ -30,7 +30,7 @@ Lendas Vivas é um jogo de cartas em 3D com a temática baseada no ODS de numero
   &emsp;|GRUPO 06 - CCOMP - Projetos de Extensão.pdf<br>
   &emsp;|Lendas Vivas Apresentação.pdf<br>
 |-->Lendas Vivas Executável<br>
-  &emsp;|-->LendasVivasJogo.exe<br>
+  &emsp;|LendasVivasJogo.exe<br>
 |-->src<br>
   &emsp;|LendasVivasJogo - Copia<br>
 |readme.md<br>
@@ -50,14 +50,9 @@ Lendas Vivas é um jogo de cartas em 3D com a temática baseada no ODS de numero
 
 ## 🛠 Instalação
 
-<b>Windows:</b>
 
 Não há instalação! Apenas executável!
 Encontre o LendasVivasJogo.exe na pasta Lendas Vivas Executável e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
 
 
 ## 💻 Configuração para Desenvolvimento
