@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaf62723a0d72fb4ebc1e75150a62372, type: 3}
+  m_Name: Heroi Boto
+  m_EditorClassIdentifier: 
+  NomeDaCarta: Boto Cor de Rosa
+  DescricaoDaAcao: "O boto resolveu entrar na batalha contra os vil\xF5es pois estavam
+    destruindo seu habitat natural, os rios."
+  HistoriaDaCarta: '"Casada? haha"'
+  VidaAtual: 4
+  DanoDeAtaque: 3
+  CustoDeMana: 3
+  SpritePersonagem: {fileID: 21300000, guid: fabb39bf3ff8b104a8837d60a4977dee, type: 3}
+  SpriteFundo: {fileID: 0}

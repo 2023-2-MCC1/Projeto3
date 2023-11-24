@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaf62723a0d72fb4ebc1e75150a62372, type: 3}
+  m_Name: Heroi Boitata
+  m_EditorClassIdentifier: 
+  NomeDaCarta: "Boitat\xE1"
+  DescricaoDaAcao: "uma serpente de fogo de olhos brilhantes que protege a natureza.
+    Sua presen\xE7a \xE9 associada \xE0 defesa das florestas e dos rios, sendo uma
+    figura importante nas hist\xF3rias folcl\xF3ricas do pa\xEDs."
+  HistoriaDaCarta: '"Vou destruir todos eles."'
+  VidaAtual: 8
+  DanoDeAtaque: 10
+  CustoDeMana: 9
+  SpritePersonagem: {fileID: 21300000, guid: 1706506b6164da84e8fc1d1df12b9295, type: 3}
+  SpriteFundo: {fileID: 21300000, guid: 1aec4ea55e483344eb21c36b5dcabfd8, type: 3}
